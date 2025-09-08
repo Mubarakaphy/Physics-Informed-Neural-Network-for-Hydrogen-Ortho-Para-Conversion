@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+env/
+venv/
+.conda/
+.pixi/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+
+# Data / outputs
+data/
+figures/*.png
+!figures/README.md   # allow a placeholder if you want
+*.csv
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
