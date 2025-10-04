@@ -21,7 +21,7 @@ It compares PINN predictions with a **finite-difference (FD)** solver and shows 
   - Adam → LBFGS refinement for stable convergence  
 
 - 📐 **Surrogate for Statistical Mechanics**  
-  - Differentiable neural surrogate for the equilibrium ortho-fraction \( f_{\rm eq}(T) \)  
+  - Differentiable neural surrogate for the equilibrium ortho-fraction $f_{\rm eq}(T)$  
   - Trained from statistical mechanics partition function  
   - Ensures PINN uses *the same physics* as FD reference
 
