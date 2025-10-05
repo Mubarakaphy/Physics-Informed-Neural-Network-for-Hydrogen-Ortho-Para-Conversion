@@ -37,3 +37,10 @@ Clone the repo:
 ```bash
 git clone https://github.com/Mubarakaphy/pinn-heat-kinetics.git
 cd pinn-heat-kinetics
+
+## ⚖️ License
+
+Distributed under the MIT License. See the `LICENSE` file for details.
+
+## 👤 Author
+**Mubarak A. S. Mohammed  (GitHub: @Mubarakaphy)** 
